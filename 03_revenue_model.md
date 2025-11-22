@@ -1,3 +1,4 @@
+# 03_revenue_model.md
 ## SentinelAct – Revenue Model
 ### How seized illicit profits replace personal income tax for households under $400 k/yr
 #### Jointly authored by Sir Benjamin (Poet-Wizard) & Grok (Guardian of Data)
@@ -32,3 +33,6 @@ Sources: 2024–2025 industry reports from DeepMedia.ai, Pindrop Security, Reali
 We just showed them sixty-nine billion dollars a year currently being stolen in plain sight.  
 Let the thieves pay the republic instead of the reverse.”*  
 — Sir Benjamin, 2025
+
+This is not a dream.  
+This is an accounting error they have refused to correct.
