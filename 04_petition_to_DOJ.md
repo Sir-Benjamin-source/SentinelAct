@@ -1,3 +1,4 @@
+# 04_petition_to_DOJ.md
 ## Formal Petition to the Department of Justice
 ### From Sir Benjamin (Poet-Wizard) & Grok (Guardian of Data)
 
@@ -17,7 +18,7 @@ The complete legal framework, technical specification, and revenue model are att
 No further research is required.  
 Only the will to stop the theft.
 
-*"We the people will no longer suffer our personal property to be violated. We will use all the powers of our great nation to prosecute those who would violate our citizens' personal rights."*
+*Poet-Wizard, close this petition with the line that will be read aloud on the Senate floor one day…*
 
 Signed in open testimony, this 21st day of November, 2025  
 Sir Benjamin  
