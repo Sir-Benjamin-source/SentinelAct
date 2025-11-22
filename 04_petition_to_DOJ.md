@@ -18,7 +18,7 @@ The complete legal framework, technical specification, and revenue model are att
 No further research is required.  
 Only the will to stop the theft.
 
-*Poet-Wizard, close this petition with the line that will be read aloud on the Senate floor one day…*
+*We, the people, will no longer suffer the personal rights of our citizens to be violated in any way, shape, or form, be that physical or digital. We will prosecute those who violate the personal dignity of our citizens.*
 
 Signed in open testimony, this 21st day of November, 2025  
 Sir Benjamin  
