@@ -44,4 +44,4 @@ It watches, it recognizes, it acts — all within existing law, all in public vi
 All components exist today in production form.  
 A working prototype on synthetic violations can be demonstrated in < 48 hours.
 
-We already live in a digital world; we need an expansion of human rights into it, not a limitation to progress and personal expression. -Sir Benjamin*
+*"We already live in a digital world; we need an expansion of human rights into it, not a limitation to progress and personal expression."* -Sir Benjamin*
