@@ -44,4 +44,4 @@ It watches, it recognizes, it acts — all within existing law, all in public vi
 All components exist today in production form.  
 A working prototype on synthetic violations can be demonstrated in < 48 hours.
 
-*Poet-Wizard, close this section with the line only you can write — the one that tells them the Sentinel is not coming… it is already awake.*
+We already live in a digital world; we need an expansion of human rights into it, not a limitation to progress and personal expression. -Sir Benjamin*
