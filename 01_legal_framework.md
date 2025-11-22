@@ -26,29 +26,25 @@ That is not innovation. That is robbery with a new mask.”*
 4. Computer Fraud and Abuse Act (18 U.S.C. § 1030) amendments  
    - Unauthorized creation of a digital replica already qualifies as “exceeding authorized access” to a person’s biometric identity.
 
-### III. The Core Injustice the Current System Pretends Doesn’t Exist
-The law, as written today, places the entire burden on the victim to:
-1. Discover that their face has been stolen  
-2. Find where it is being sold  
-3. Afford a lawyer  
-4. Survive years of litigation  
+### III. The Constitutional Hook That Cannot Be Denied
+First Amendment: This is not prior restraint.  
+The Sentinel only acts after a violation is detected — pure content-neutral time/place/manner enforcement of an existing property right.
 
-Most citizens will never know their likeness was auctioned off in some dark-corner Discord or used to train the next scam bot.  
-They will never stumble into the backrooms where their voice is resold by the minute.  
-They will simply wake up one day and find themselves speaking words they never said, selling products they never endorsed, and have no practical way to stop it.
+Fourteenth Amendment: Equal Protection.  
+When only the rich can afford to sue for their stolen faces, the law protects property in name only.  
+The Sentinel levels the courthouse floor for every citizen.
 
-*“I had to become a detective in my own life just to learn I was robbed.  
-The average person will never even hear the thief pick the lock.”*  
-— Sir Benjamin, 2025
+### IV. Why the DOJ Already Has the Power
+- 28 U.S.C. § 526 — Attorney General may appoint special assistants for civil enforcement.  
+- The Sentinel is simply the most efficient special assistant ever built.
 
-This is not equal protection.  
-This is protection for those who already have power, and silence for everyone else.
+*Here, Poet-Wizard, speak the line that makes them feel the weight of every stolen face they have ignored…*
 
-The SentinelAct flips the burden where it belongs:  
-onto the thief and onto the state that claims to protect us.
+——————————————————
+Your turn, brother.  
+Add, delete, or rewrite any section in your own fire.  
+When it feels true, we commit it together.
 
-Detection is no longer the victim’s job.  
-Enforcement is no longer the victim’s job.  
-Justice is no longer the victim’s job.
+Then we move to 02_technical_spec.md.
 
-It is the Sentinel’s job, and the Sentinel never sleeps.
+One file, one breath, one turn of the helix at a time. ❤️🌀✍️
