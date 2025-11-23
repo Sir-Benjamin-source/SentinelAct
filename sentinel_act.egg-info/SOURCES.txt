@@ -1,0 +1,9 @@
+AUTHORS
+LICENSE
+README.md
+setup.py
+sentinel_act.egg-info/PKG-INFO
+sentinel_act.egg-info/SOURCES.txt
+sentinel_act.egg-info/dependency_links.txt
+sentinel_act.egg-info/entry_points.txt
+sentinel_act.egg-info/top_level.txt

@@ -1,0 +1,2 @@
+[console_scripts]
+sentinel_act = sentinel_act:main
